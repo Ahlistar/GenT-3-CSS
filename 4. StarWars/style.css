@@ -1,0 +1,55 @@
+.imperio{
+
+background-color: crimson;
+li{
+    background-color: crimson;
+}
+
+}
+
+.rebeldes{
+
+background-color: lightskyblue;
+
+}
+
+.sold{
+
+    border-style: dashed;
+
+}
+
+.apoyo{
+
+    display: block;
+    text-align: center;
+    align-items: center;
+    width: 50%;
+
+}
+
+.nave{
+
+    text-transform: uppercase;
+
+}
+
+#Darth{
+    
+    font-size: 30px;
+
+}
+
+#Luke{
+
+    font-style: italic;
+
+}
+
+.droid{
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
